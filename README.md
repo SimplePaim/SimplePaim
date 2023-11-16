@@ -1,5 +1,5 @@
 
-### Opa, eu sou José Pedro Jaques 🙋🏻!!
+### Opa, eu sou José Pedro Jaques 🙋🏻!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-pedro-jaques-23b522280/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ze.paim?igshid=NGVhN2U2NjQ0Yg%3D%3D&utm_source=qr)
